@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050473473690",
+    "project_id": "travelapp-a220b",
+    "storage_bucket": "travelapp-a220b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050473473690:android:01eeff7707a86af4d0e123",
+        "android_client_info": {
+          "package_name": "com.example.triploversapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIk9MKGaAhpfa1nPsP7kcCEL1R1UABToE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
